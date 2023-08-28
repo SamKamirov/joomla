@@ -74,4 +74,4 @@ __root__ и __password__ вы можете заменить на любые зн
 sudo mysql_secure_installation
 ```
 Внимательно прочитайте описания и выберите необходимые вам варианты.
-Если остались вопросы, перейдите сюда. Найдите точку ввода команды ```sudo mysql_secure_installation``` и проверьте последовательность произведённых шагов.
+Если остались вопросы, перейдите [сюда](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04). Найдите точку ввода команды ```sudo mysql_secure_installation``` и проверьте последовательность произведённых шагов.
