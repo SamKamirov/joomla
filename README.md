@@ -19,7 +19,7 @@ sudo apt install apache2
 ```
 sudo ufw app list
 ```
-В случае если у вас поялвяется ошибка о неизвестном пакете, перейдите по данной [ссылке](https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu) и следуйте инструкциям.
+В случае если у вас появляется ошибка о неизвестном пакете, перейдите по данной [ссылке](https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu) и следуйте инструкциям.
 
 Далее снова введите команду.
 ```
