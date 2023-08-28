@@ -3,7 +3,12 @@
 # Установка в Ubuntu Linux 22.04
 ## 0. Обновление системных пакетов
 Обновите системные пакеты на вашем сервере
+Запустите терминал сочетанием клавиш __Shift__ + __Alt__ + __T__.
 ```
-sudo apt update
-	sudo apt upgrade
+$ sudo apt update
+$ sudo apt upgrade
+```
+## 1. Установка Apache
+```
+$ sudo apt install apache2
 ```
