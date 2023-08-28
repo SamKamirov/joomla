@@ -3,5 +3,7 @@
 # Установка в Ubuntu Linux 22.04
 ## 0. Обновление системных пакетов
 Обновите системные пакеты на вашем сервере
-	sudo apt update
+```
+sudo apt update
 	sudo apt upgrade
+```
