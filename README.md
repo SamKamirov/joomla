@@ -75,6 +75,7 @@ sudo mysql_secure_installation
 ```
 Внимательно прочитайте описания и выберите необходимые вам варианты.
 Если остались вопросы, перейдите [сюда](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04). Найдите точку ввода команды ```sudo mysql_secure_installation``` и проверьте последовательность произведённых шагов.
+
 Запустите ```mysql```
 ```
 sudo mysql
@@ -153,6 +154,7 @@ sudo nano 50-server.cnf
 
 ## 5.Восстановление сайта по архивным файлам
 Скачайте [Akeeba Kickstart 7.2.0](https://www.akeeba.com/download/akeeba-kickstart/7-2-0/kickstart-core-7-2-0-zip.zip) и распакуйте его в папку где установлена Joomla!
+
 Запустите скрипт введя в адресной строке ```IP адрес сервера/kickstart.php```
 Выполните шаги по восстановлению сайта из файлов.
 
